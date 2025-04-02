@@ -75,6 +75,9 @@ PC用のスタイル
   #nav-pc{
     display: none;
   }
+  header{
+    display: inline;
+  }
   #menu-sp{
     float: right;
     padding: 0;
